@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="estilos.css">
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <th>Nome do Aluno</th>
