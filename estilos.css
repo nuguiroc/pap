@@ -3,22 +3,22 @@ table {
   width: 80%;
   margin: 30px auto;
   font-family: Arial, sans-serif;
-  background: #fff0f0;
+  background: #f0f8ff;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 th, td {
-  border: 1px solid #b30000;
+  border: 1px solid #0047ab;
   padding: 10px 16px;
   text-align: center;
 }
 th {
-  background: #b30000;
+  background: #0047ab;
   color: #fff;
   font-size: 1.1em;
 }
 tr:nth-child(even) {
-  background: #ffd6d6;
+  background: #d6e9ff;
 }
 tr:hover {
-  background: #ffb3b3;
+  background: #b3d9ff;
 }
